@@ -1,0 +1,8 @@
+../Core/Src/gpio_hal.cpp:13:1:GPIObase::GPIObase()	16	static
+../Core/Src/gpio_hal.cpp:17:1:GPIObase::~GPIObase()	16	static
+../Core/Src/gpio_hal.cpp:20:6:static void GPIObase::init()	8	static
+../Core/Src/gpio_hal.cpp:28:1:Dout::Dout(GPIO_TypeDef*, uint16_t, GPIO_PinState)	24	static
+../Core/Src/gpio_hal.cpp:33:1:Dout::~Dout()	16	static
+../Core/Src/gpio_hal.cpp:37:6:void Dout::write(GPIO_PinState)	16	static
+../Core/Src/gpio_hal.cpp:41:6:void Dout::toggle()	16	static
+../Core/Src/gpio_hal.cpp:46:15:GPIO_PinState Dout::read()	16	static

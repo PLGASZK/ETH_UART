@@ -1,0 +1,3 @@
+../Core/Src/httpserver.cpp:13:1:HTTPserverBase::HTTPserverBase()	16	static
+../Core/Src/httpserver.cpp:17:1:HTTPserverBase::~HTTPserverBase()	16	static
+../Core/Src/httpserver.cpp:21:6:void HTTPserverBase::init()	16	static

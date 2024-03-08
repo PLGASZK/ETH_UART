@@ -1,0 +1,5 @@
+../Core/Src/uart_hal.cpp:11:1:UARTBase::UARTBase(USART_TypeDef*, UART_HandleTypeDef*)	24	static
+../Core/Src/uart_hal.cpp:16:6:void UARTBase::init()	16	static
+../Core/Src/uart_hal.cpp:29:1:UARTBase::~UARTBase()	16	static
+../Core/Src/uart_hal.cpp:41:19:HAL_StatusTypeDef UARTBase::write(const uint8_t*, uint16_t, uint32_t)	24	static
+../Core/Src/uart_hal.cpp:48:19:HAL_StatusTypeDef UARTBase::read(const uint8_t*, uint16_t, uint32_t)	24	static
